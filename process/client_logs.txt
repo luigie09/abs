@@ -1,0 +1,3 @@
+2014-09-17 23:22:18	Mark Luigie Tolentino	Client's account was logged in by: Full Name Employee
+2014-09-19 23:49:45	Mark Luigie Tolentino	Client's account was logged in by: Full Name Employee
+2014-09-20 10:43:47	Mark Luigie Tolentino	Client's account was logged in by: Full Name Employee
